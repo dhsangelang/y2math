@@ -7,3 +7,4 @@ print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
 # what if there is more than 1 mode?
+# Answer = Mode of n is different modes divided by number of different modes
